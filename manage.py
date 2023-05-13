@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-import time
+import date
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
